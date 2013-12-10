@@ -1,0 +1,7 @@
+parameters:
+#    xavifuefer_test.example.class: Xavifuefer\TestBundle\Example
+
+services:
+#    xavifuefer_test.example:
+#        class: %xavifuefer_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+xavifuefer_test_homepage:
+    pattern:  /
+    defaults: { _controller: XavifueferTestBundle:Default:index }

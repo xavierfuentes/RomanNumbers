@@ -1,0 +1,3 @@
+xavifuefer_test:
+    resource: "@XavifueferTestBundle/Resources/config/routing.yml"
+    prefix:   /
